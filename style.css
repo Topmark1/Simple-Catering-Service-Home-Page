@@ -1,0 +1,11 @@
+body{background-color:#ffbf00}
+div.first{position:relative;left:100px;font-size:30px;top:20px}
+div.second{position:relative;left:100px;font-size:14px}
+div.third{position:relative;left:100px;top:-20px}
+div.fourth{position:absolute;left:620px;top:220px}
+div.fifth{position:sticky;bottom:0;margin:-30px -20px;width:1300px;background-color:rgb(2, 2, 166);height:60px}
+div.sixth{width:80%;position:relative;color:white;font-family:calibri;left:100px;font-size:18px;top:10px}
+img{width:500px;height:400px;filter:drop-shadow(0px 0px 6px rgb(50,50,50))}
+hr{width:1178px;border:1px solid black;opacity:0.4}
+#joan{font-family:"Old English Text MT"}
+#tacos{font-family:arial;color:rgb(131, 52, 0);font-size:60px}
